@@ -21,10 +21,11 @@ def subcheck(input):
 
             if r.status_code != 404:
                 print(a)
+                count += 1
         except:
             count2 += 1
-    print("Reachable websites count are: " + count)
-    print("Unreachable websites count are: " + count2)
+    print("Reachable websites count are: " + str(count))
+    print("Unreachable websites count are: " + str(count2))
 
 
 print("Sub Checker Started!! ")
