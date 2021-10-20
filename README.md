@@ -9,9 +9,9 @@
  
  ### Usage:
  
-1- open your terminal
+1- Kindly open your terminal and enter the below commands in order.
 
-2- enter the command: git clone https://github.com/zer0da/SubChecker.git
+2- git clone https://github.com/zer0da/SubChecker.git
 
 3- cd SubChecker
 
